@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vonncommandtest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc6a191c2fedbae436cba4e573db8ea753f15b96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68283b7450a230389c400f8b7845521a1c78e32d")]
 [assembly: System.Reflection.AssemblyProductAttribute("vonncommandtest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vonncommandtest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

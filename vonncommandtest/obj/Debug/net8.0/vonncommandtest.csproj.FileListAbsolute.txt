@@ -1,0 +1,15 @@
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\bin\Debug\net8.0\vonncommandtest.exe
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\bin\Debug\net8.0\vonncommandtest.deps.json
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\bin\Debug\net8.0\vonncommandtest.runtimeconfig.json
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\bin\Debug\net8.0\vonncommandtest.dll
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\bin\Debug\net8.0\vonncommandtest.pdb
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\obj\Debug\net8.0\vonncommandtest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\obj\Debug\net8.0\vonncommandtest.AssemblyInfoInputs.cache
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\obj\Debug\net8.0\vonncommandtest.AssemblyInfo.cs
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\obj\Debug\net8.0\vonncommandtest.csproj.CoreCompileInputs.cache
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\obj\Debug\net8.0\vonncommandtest.sourcelink.json
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\obj\Debug\net8.0\vonncommandtest.dll
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\obj\Debug\net8.0\refint\vonncommandtest.dll
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\obj\Debug\net8.0\vonncommandtest.pdb
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\obj\Debug\net8.0\vonncommandtest.genruntimeconfig.cache
+E:\Net\vonntestconsole\vonncmdtest\vonncommandtest\obj\Debug\net8.0\ref\vonncommandtest.dll
